@@ -1,0 +1,5 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const UPLOAD_DOCUMENT = 'UPLOAD_DOCUMENT';
+export const DOCUMENT_LIST = 'DOCUMENT_LIST';
+export const DOCUMENT_SINGLE = 'DOCUMENT_SINGLE';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
