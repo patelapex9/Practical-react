@@ -25,7 +25,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
     "mgr-pdf-viewer-react": "^1.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.9.0",
     "react": "^16.8.3",
     "react-acl-router": "^0.2.5",
